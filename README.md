@@ -10,7 +10,7 @@
 
 GoodbyeDPI ise ValdikSS ve topluluk tarafından geliştirilmiş, açık kaynak, senelerdir olan çok popüler bir araç. İçerisinde bu DPI yöntemine karşı koymak ve kafasını karıştırmak için çeşit çeşit teknikler bulunduruyor. Bu teknikleri gönlümüzce, kendi internet ve ISP (internet sağlayıcısı) gereksinimlerimize göre kullanabilir, konfigüre edebiliriz.
 
-Bu VPN gibi bir şey değil. Sizi bir yere bağlamıyor, sadece internet paketlerinizi birazcık değiştirip ISP'nizin kafasını karıştırıyor. Eğer çok yanlış ayar yapmazsanız en ufak yavaşlamaya bile sahip olmazsınız.
+Bu VPN gibi bir şey değil. Sizi bir yere bağlamıyor, sadece internet paketlerinizi birazcık değiştirip ISP'nizin kafasını karıştırıyor. Eğer çok yanlış ayar yapmazsanız en ufak yavaşlamaya bile sahip olmazsınız. Oyun oynarken de kullanabilirsiniz.
 
 ## GoodbyeDPI Nasıl Kurulur?
 >
