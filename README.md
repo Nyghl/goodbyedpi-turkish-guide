@@ -25,7 +25,7 @@ GoodbyeDPI'ın varsayılan, yüklediğinizde gelen ayarlar çoğu internet sağl
 
 [ValdikSS/GoodbyeDPI/releases](https://github.com/ValdikSS/GoodbyeDPI/releases) sayfasından, 0.2.3rc3 pre-release versiyonunu indirmeniz gerekiyor. Başka bir sürümü indirirseniz rehber çalışmayabilir. İndirmek için de Assets kısmına tıklayıp, goodbyedpi-0.2.3rc3-2.zip adlı dosyayı indirmeniz gerekiyor.
 
-[Örnek Görsel](/github/images/assets.png)
+![Örnek Görsel](/github/images/assets.png)
 
 İndikten sonra zipten çıkartıp, istediğiniz bir yere atabilirsiniz.
 
@@ -95,7 +95,7 @@ Bu dosyayı kullanmak için:
 
 2. Opsiyon: GoodbyeDPI'ı resmi [Github sayfasından](https://github.com/ValdikSS/GoodbyeDPI/) indirip, [goodbyedpi_dnsli_turkiye](goodbyedpi_dnsli_turkiye.cmd) komut dosyasını, indirdiğiniz GoodbyeDPI'ın içerisine atıp çalıştırabilirsiniz.<br><br>Resmi sayfadan indirmek için [releases](https://github.com/ValdikSS/GoodbyeDPI/releases/) kısmına gidip, Assets kısmına tıklayıp, goodbyedpi-0.2.3rc3-2.zip adlı dosyayı indirmeniz gerekiyor.
 
-[Örnek Görsel](/github/images/assets.png)
+![Örnek Görsel](/github/images/assets.png)
 
 Eğer eski bir versiyon indirirseniz bu rehber geçerli olmayabilir.
 
