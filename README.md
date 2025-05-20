@@ -91,7 +91,7 @@ Eğer detaylı kurulumla uğraşmak istemezseniz, direkt bu Github projesindeki 
 
 Bu dosyayı kullanmak için:
 
-1. Opsiyon: Dümdüz tüm bu Github repository'sini yukarıda "Code" -> "Download as Zip" diyerek indirip, zipten çıkartıp çalıştırabilirsiniz.
+1. Opsiyon: Dümdüz tüm bu Github repository'sini yukarıda "Code" -> "Download Zip" diyerek indirip, zipten çıkartıp çalıştırabilirsiniz.
 
 2. Opsiyon: GoodbyeDPI'ı resmi [Github sayfasından](https://github.com/ValdikSS/GoodbyeDPI/) indirip, [goodbyedpi_dnsli_turkiye](goodbyedpi_dnsli_turkiye.cmd) komut dosyasını, indirdiğiniz GoodbyeDPI'ın içerisine atıp çalıştırabilirsiniz.<br><br>Resmi sayfadan indirmek için [releases](https://github.com/ValdikSS/GoodbyeDPI/releases/) kısmına gidip, Assets kısmına tıklayıp, goodbyedpi-0.2.3rc3-2.zip adlı dosyayı indirmeniz gerekiyor.
 
