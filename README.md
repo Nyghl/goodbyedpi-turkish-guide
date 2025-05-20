@@ -109,6 +109,11 @@ GoodbyeDPI'ın arka planda açık kalması gerekiyor. Eğer kapattıysanız mant
 Eğer açıksa ve yine de çalışmıyorsa, versiyonunu kontrol edin. Bazen indirirken yanlışlıkla 0.2.2 versiyonu indirilinebiliyor. Bu rehber v0.2.3rc3 pre-release sürümü için geçerli.
 
 Sürüm de doğruysa o zaman GoodbyeDPI'ın da yanında şifreli DNS kullanmanız gerekebilir. Ya da daha ağır bir komut denemeniz gerekebilir. [Alternatif Komutlar](alternatif_komutlar/) klasöründen sırasıyla deneyebilirsiniz. Ayriyeten [Alternatif DNS](alternatif_dns/) klasöründen farklı bir DNS de deneyebilirsiniz.
+
+### "Hep altta aşağıda gözükecek mi bu?"
+
+Maalesef evet. Ama üçüncü parti yazılımları kullanarak sistem tepsisine küçültebilirsiniz. Benim şahsen kullandığım yazılım [Traymond](https://github.com/fcFn/traymond).
+
 </details>
 
 > Yasal Uyarı: Bu rehber ve rehberi yazan kişi; yasaklanan, yasal olmayan site ve uygulamaları kullanmanızı teşvik ve tavsiye etmemektedir. Popüler ve güvenilir bir proje olan GoodbyeDPI hakkında bilgilendirme ve eğitim amacıyla, bir programlama topluluğu için yazılmıştır. Bu rehberi lütfen kötü şekillerde kullanmayınız.
