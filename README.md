@@ -116,6 +116,6 @@ Maalesef evet. Ama üçüncü parti yazılımları kullanarak sistem tepsisine k
 
 </details>
 
-<br><br>
+<br>
 
 > Yasal Uyarı: Bu rehber ve rehberi yazan kişi; yasaklanan, yasal olmayan site ve uygulamaları kullanmanızı teşvik ve tavsiye etmemektedir. Popüler ve güvenilir bir proje olan GoodbyeDPI hakkında bilgilendirme ve eğitim amacıyla, bir programlama topluluğu için yazılmıştır. Bu rehberi lütfen kötü şekillerde kullanmayınız.
