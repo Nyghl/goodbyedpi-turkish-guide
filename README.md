@@ -98,7 +98,7 @@ Bu dosyayı kullanmak için:
 ![Örnek Görsel](/github/images/assets.png)
 
 Eğer eski bir versiyon indirirseniz bu rehber geçerli olmayabilir.
-
+<br>
 <details>
     <summary>Sıkça Sorulan Sorular</summary>
 
